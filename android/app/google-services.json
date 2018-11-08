@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "287253180462",
+    "firebase_url": "https://hk-flutter.firebaseio.com",
+    "project_id": "hk-flutter",
+    "storage_bucket": "hk-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287253180462:android:81d94642540f6a3d70efbf",
+        "android_client_info": {
+          "package_name": "com.healthkart.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287253180462-9pcv3rpgvm6su1riibqd23u1anlt6af7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthkart.com",
+            "certificate_hash": "b8e2b13f910e1e0c9df80d9943f009f14302d2ae"
+          }
+        },
+        {
+          "client_id": "287253180462-5tscduf9dtq4gn6rknu3m82t7nph4drk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0jiLTJKxNAvQJXHlhmAVCEJEShuUt7kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287253180462-5tscduf9dtq4gn6rknu3m82t7nph4drk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
