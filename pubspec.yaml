@@ -21,9 +21,6 @@ fonts:
     fonts:
       - asset: fonts/Oswald-Regular.ttf
 
-
-
-
 dependencies:
   flutter:
     sdk: flutter
